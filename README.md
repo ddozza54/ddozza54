@@ -16,7 +16,7 @@
     </a>
   </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddozza54&layout=compact"><br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddozza54&show_icons=true&theme=dracula)
 
 <h2></h2>
 
