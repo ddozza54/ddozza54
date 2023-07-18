@@ -16,7 +16,8 @@
     </a>
   </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddozza54&show_icons=true&theme=dracula)
+<img src="https://stats.hyochan.dev/api/github-stats-advanced?login=ddozza54" width=500/>
+
 
 <h2></h2>
 
