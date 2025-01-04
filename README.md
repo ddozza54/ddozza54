@@ -4,7 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=🍋DDOZZA🍐&fontSize=60&fontColor=ffffff&animation=fadeIn)
 
-<h3> 🌼또자의 깃허브에 오신 걸 환영합니다🌼 </h3>
+<h3> 🌼안녕하세요 하유정입니다🌼 </h3>
 
 ---
 
