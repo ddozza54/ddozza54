@@ -16,8 +16,6 @@
     </a>
   </p>
 
-<img src="https://stats.hyochan.dev/api/github-stats-advanced?login=ddozza54" width=500 alt="stats image loading..."/>
-
 
 <h2></h2>
 
